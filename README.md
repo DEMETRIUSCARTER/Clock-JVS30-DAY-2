@@ -1,4 +1,4 @@
-<h1 align="center">JAVASCRIPT & CSS CLOCK</h1>
+<h1 align="center">JAVASCRIPT + CSS CLOCK</h1>
 
  <p align="center">A clock built using Javascript and CSS.</p>
 
