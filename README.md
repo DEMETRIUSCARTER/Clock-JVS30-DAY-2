@@ -5,7 +5,7 @@
  ## Links
 
  - [Repo](https://github.com/DEMETRIUSCARTER/Clock-JVS30-DAY-2)
- - [Live App](https://demetriuscarter.github.io/Jam-machine-JVS30-DAY-1/)
+ - [Live App](https://demetriuscarter.github.io/Clock-JVS30-DAY-2/)
 
  ## Built With
 
